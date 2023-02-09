@@ -1,4 +1,4 @@
-# Awsome Motion Canvas
+# Awesome Motion Canvas
 
 > At awesome list of [Motion Canvas][mc] packages and resources.
 
