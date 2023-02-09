@@ -1,6 +1,6 @@
 # Awesome Motion Canvas
 
-> At awesome list of [Motion Canvas][mc] packages and resources.
+> An awesome list of [Motion Canvas][mc] packages and resources.
 
 # Contributing
 
