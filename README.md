@@ -11,6 +11,8 @@ resource? Open a pull request to add it to the list.
 
 Add any libraries or components here.
 
+- :movie_camera: [**Motion Canvas Camera**](https://github.com/ksassnowski/motion-canvas-camera) – A camera component that allows you to move a camera around the scene, focus onto nodes and much more.
+
 # Resources
 
 Add any other resources here.
